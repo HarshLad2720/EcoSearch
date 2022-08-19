@@ -38,7 +38,7 @@
 
                 </div>
             </div>
-            <section id="contact" class="contact">
+            <section id="contact" class="contact" style="background-color: azure;">
                 <div class="container" data-aos="fade-up" data-aos-delay="100">
                     <h4>Please complete the following form if you’re interested. We will come back to you as soon as possible</h4>
                     <div class="row gy-4 mt-1">
@@ -142,7 +142,7 @@
                     </div>
                 </div> <br/><br/>
                 <div class="text-center" style="text-transform: uppercase;">
-                    <a class="btn btn-info" href="http://www.eco-search.com.au/wp-content/uploads/2021/04/Timesheet-EcoSearch-Consulting.pdf" target="_blank">Download TimeSheet Here</a>
+                    <a class="btn btn-secondary" href="http://www.eco-search.com.au/wp-content/uploads/2021/04/Timesheet-EcoSearch-Consulting.pdf" target="_blank">Download TimeSheet Here</a>
                 </div>
             </section>
         </main>

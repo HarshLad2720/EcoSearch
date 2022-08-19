@@ -66,9 +66,9 @@
             <section id="get-started" class="get-started section-bg">
                 <div class="container">
                     <div class="row justify-content-between gy-4">
-                        <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up">
+                        <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up" style="background-color: #15272F;padding-top: 0%;padding-right: 4%;padding-bottom: 8%;padding-left: 8%;color: white;">
                             <div class="content">
-                                <h3>Why choose EcoSearch? /or What sets us apart? </h3>
+                                <h3 style="color: white;">Why choose EcoSearch ? or What sets us apart? </h3>
                                 <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}As specialists in the industry, we have extensive experience in finding the best solution for you. We want the match for both parties to be long-standing and gratifying.
                                     We take the relationship-approach, taking our time to thoroughly get to know both your organisation, and our candidates.
                                 <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}Whether you’re looking for a highly skilled worker in a particular area, or access to labourers with a wide variety of tickets, we supply the most suitable individual
@@ -78,9 +78,9 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up" style="padding-top: 50px;">
+                            <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up" style="background-color: #AFFCF9;padding-top: 4%;padding-right: 8%;padding-bottom: 4%;padding-left: 4%;">
                             <div class="content">
-                                <h3>Our Solutions</h3>
+                                <h3 style="color: black;">Our Solutions</h3>
                                 <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}We take the time to understand both your immediate, and future needs as a company.
                                     Full job briefing to understand what skills and qualifications are required inline with your workplace needs and the necessary safety requirements, so only the ideal selection is made
                                 <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}An in-depth search is carried out using our industry knowledge to filter through our database for suitable candidates

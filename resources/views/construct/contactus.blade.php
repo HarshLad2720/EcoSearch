@@ -39,7 +39,7 @@
 
                 </div>
             </div>
-            <section id="contact" class="contact">
+            <section id="contact" class="contact" style="background-color: azure;">
                 <div class="container" data-aos="fade-up" data-aos-delay="100">
                     <div class="row gy-4">
                         <div class="col-lg-6">
@@ -48,7 +48,7 @@
                                 <h3>Our Address</h3>
                                 <p>Level 1, 9 Bronte Rd, Bondi Junction, NSW 2022</p>
                             </div>
-                        </div><!-- End Info Item -->
+                        </div>
 
                         <div class="col-lg-3 col-md-6">
                             <div class="info-item d-flex flex-column justify-content-center align-items-center">
@@ -56,7 +56,7 @@
                                 <h3>Email Us</h3>
                                 <a href="mailto:stuart@ecosearch.io">stuart@ecosearch.io</a>
                             </div>
-                        </div><!-- End Info Item -->
+                        </div>
 
                         <div class="col-lg-3 col-md-6">
                             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
@@ -64,16 +64,13 @@
                                 <h3>Call Us</h3>
                                 <a href="tel:0451003081">0451003081</a>
                             </div>
-                        </div><!-- End Info Item -->
-
+                        </div>
                     </div>
 
                     <div class="row gy-4 mt-1">
-
                         <div class="col-lg-6 ">
                             <iframe src="https://www.google.com/maps/embed?-33.8930154,151.2470749,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12adf13e02edd3:0x259af2b12d21119f!8m2!3d-33.8930199!4d151.2492636?hl=en-US" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
-                        </div><!-- End Google Maps -->
-
+                        </div>
                         <div class="col-lg-6">
                             <form action="{{route('contactus.store')}}" method="post" class="php-email-form">
                                 @csrf
