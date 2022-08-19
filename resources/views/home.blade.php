@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <title>EcoSearch | Recruitment for Construction, Medical and Logistics</title>
+        <title>EcoSearch | Recruitment for Construction, Electrical and Renewables</title>
         @include('construct.ecocss')
     </head>
     <body>
@@ -17,11 +17,11 @@
                 <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
                 <nav id="navbar" class="navbar">
                     <ul>
-                        <li><a href="{{url('/')}}" class="active">Home</a></li>
-                        <li><a href="{{url('/area')}}">Specialist Areas</a></li>
-                        <li><a href="{{url('/team')}}">The Team</a></li>
-                        <li><a href="{{url('/candidate')}}">Candidates</a></li>
-                        <li><a href="{{url('/contact')}}">Contact Us</a></li>
+                        <li><a href="{{url('/')}}" class="active">HOME</a></li>
+                        <li><a href="{{url('/area')}}">AREAS OF EXPERTISE</a></li>
+                        <li><a href="{{url('/team')}}">MEET THE TEAM</a></li>
+                        <li><a href="{{url('/candidate')}}">CANDIDATES</a></li>
+                        <li><a href="{{url('/contact')}}">CONTACT US</a></li>
                         <li>
                             @if (Route::has('login'))
                                 <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
@@ -51,7 +51,7 @@
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-6 text-center">
-                            <h1><p style="font-size: 28px; color: white; text-align: start;">EcoSearch are specialists in the sourcing and recruitment of high calibre candidates in commercial roles within <span style="color: #affcf9;">Construction & Engineering, Medical, Supply Chain & Logistics, and Health & Safety</span> industries across Australia.</p></h1>
+                            <h1><p style="font-size: 28px; color: white; text-align: start;">EcoSearch specialises in providing labour hire services in Construction, Electrical and Renewable industries, Australia wide. We believe success depends on the people around you, we want to help you find and retain the best employees so your organisation can grow, perform and have long-term success.</p></h1>
                         </div>
                     </div>
                 </div>
@@ -70,20 +70,25 @@
 
                         <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up">
                             <div class="content">
-                                <h3>Why EcoSearch?</h3>
-                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}We employ a relationship-based approach to recruitment and our focus is on a long term fit for both parties. Feedback from our clients is consistent – they engage us because of our incisive market knowledge and proven ability to discretely execute an efficient and effective search and recruitment process.
-                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}High quality candidates do not flood the market; the majority of candidates are passive i.e, happy in their roles but open to the right opportunity. We use many proactive tools and techniques to access and influence top candidates, none more so than our existing relationships and networks.</p>
+                                <h3>Why choose EcoSearch? /or What sets us apart? </h3>
+                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}As specialists in the industry, we have extensive experience in finding the best solution for you. We want the match for both parties to be long-standing and gratifying.
+                                    We take the relationship-approach, taking our time to thoroughly get to know both your organisation, and our candidates.
+                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}Whether you’re looking for a highly skilled worker in a particular area, or access to labourers with a wide variety of tickets, we supply the most suitable individual
+                                    years’ experience successfully pairing candidates with the relevant employer
+                                    A huge, dedicated and trusted talent database
+                                </p>
                             </div>
                         </div>
 
-                        <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up">
+                        <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up" style="padding-top: 50px;">
                             <div class="content">
-                                <h3>Our Strategies</h3>
-                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}Full job briefing to understand cultural dynamics and technical requirements.
-                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}Search is undertaken using our deep knowledge of the marketplace and comprehensive database, networks and other avenues such industry associations.
-                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}We conduct structured screening interviews with the candidates to explore both technical requirements and cultural fit, and a realistic job preview is provided to ensure candidates fully understand the role.
-                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}We use a comprehensive and structured approach to check references of the preferred candidate, each of which is summarised in writing.
-                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}Post placement, we follow up with both the candidate and organisation in the crucial early weeks, to check satisfaction and ensure any teething problems are quickly and appropriately addressed.</p>
+                                <h3>Our Solutions</h3>
+                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}We take the time to understand both your immediate, and future needs as a company.
+                                    Full job briefing to understand what skills and qualifications are required inline with your workplace needs and the necessary safety requirements, so only the ideal selection is made
+                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}An in-depth search is carried out using our industry knowledge to filter through our database for suitable candidates
+                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}We carry out structured screening interviews to ensure the right fit, both culturally and technically. During this process a full clear description of the job role is executed.
+                                    Once potential candidates are selected, we carry out checks of references from previous employers
+                                <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}When the placement has been confirmed, we maintain our relationship with both the organisation and candidate, providing an exceptional on-boarding experience in the weeks that follow, so any constructive feedback can be exchanged, taken on board, and resolved early on.</p>
                             </div>
                         </div>
 
@@ -99,41 +104,32 @@
                         <div class="col-lg-6 img-bg" style="background-image: url(assets/img/alt-services.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
 
                         <div class="col-lg-5 d-flex flex-column justify-content-center">
-                            <h3>At EcoSearch our highest priority is to respond quickly with quality to a client request – whether it is for permanent or contract staff</h3>
-                            <p>We help companies hire the Top 15% of talent. Reach us today for more information.</p><br/><br/>
-
-                            <h3>Our Specialist Areas:</h3>
+                            <h3>Areas we service:</h3>
                             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
                                 <i class="bi bi-1-circle"></i>
                                 <div>
-                                    <h4><a href="{{url('/area')}}" class="stretched-link">Construction & Engineering</a></h4>
+                                    <h4><a href="{{url('/area')}}" class="stretched-link">Construction</a></h4>
                                 </div>
                             </div><!-- End Icon Box -->
 
                             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
                                 <i class="bi bi-2-circle"></i>
                                 <div>
-                                    <h4><a href="{{url('/area')}}" class="stretched-link">Medical</a></h4>
+                                    <h4><a href="{{url('/area')}}" class="stretched-link">Electrical</a></h4>
                                 </div>
                             </div><!-- End Icon Box -->
 
                             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
                                 <i class="bi bi-3-circle"></i>
                                 <div>
-                                    <h4><a href="{{url('/area')}}" class="stretched-link">Supply Chain & Logistics</a></h4>
+                                    <h4><a href="{{url('/area')}}" class="stretched-link">Renewables</a></h4>
                                 </div>
-                            </div>
-                            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
-                                <i class="bi bi-4-circle"></i>
-                                <div>
-                                    <h4><a href="{{url('/area')}}" class="stretched-link">Health & Safety</a></h4>
-                                </div>
-                            </div><br/><br/><!-- End Icon Box -->
+                            </div><br/><br/>
                             <div class="form-group" style="position: relative;right: -113px;text-transform: uppercase;">
-                                <a class="btn btn-info" href="{{url('/area')}}">More About Our Specialist Areas</a>
+                                <a class="btn btn-info" href="{{url('/area')}}">AREAS OF EXPERTISE</a>
                             </div><br/>
-                            <div class="form-group" style="position: relative;right: -113px;padding-left: 71px; text-transform: uppercase;">
-                                <a class="btn btn-info" href="{{url('/team')}}">Learn About Our Team</a>
+                            <div class="form-group" style="position: relative;right: -75px;padding-left: 71px; text-transform: uppercase;">
+                                <a class="btn btn-info" href="{{url('/team')}}">MEET THE TEAM</a>
                             </div>
 
                         </div>

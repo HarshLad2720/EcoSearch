@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <title>EcoSearch | Teams</title>
+        <title>EcoSearch | MEET THE TEAM</title>
         @include('construct.ecocss')
     </head>
     <body>
@@ -17,11 +17,11 @@
                 <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
                 <nav id="navbar" class="navbar">
                     <ul>
-                        <li><a href="{{url('/')}}">Home</a></li>
-                        <li><a href="{{url('/area')}}">Specialist Areas</a></li>
-                        <li><a href="{{url('/team')}}" class="active">The Team</a></li>
-                        <li><a href="{{url('/candidate')}}">Candidates</a></li>
-                        <li><a href="{{url('/contact')}}">Contact Us</a></li>
+                        <li><a href="{{url('/')}}">HOME</a></li>
+                        <li><a href="{{url('/area')}}">AREAS OF EXPERTISE</a></li>
+                        <li><a href="{{url('/team')}}" class="active">MEET THE TEAM</a></li>
+                        <li><a href="{{url('/candidate')}}">CANDIDATES</a></li>
+                        <li><a href="{{url('/contact')}}">CONTACT US</a></li>
                     </ul>
                 </nav>
             </div>
@@ -30,10 +30,10 @@
         <main id="main">
             <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/blog/blog-recent-5.jpg');">
                 <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
-                    <h2>Teams</h2>
+                    <h2>MEET THE TEAM</h2>
                     <ol>
                         <li><a href="{{url('/')}}">Home</a></li>
-                        <li>Teams</li>
+                        <li>MEET THE TEAM</li>
                     </ol>
                 </div>
             </div>
