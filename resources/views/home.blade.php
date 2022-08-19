@@ -58,16 +58,14 @@
             </div>
 
             <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
-                <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/hero-carousel-1.jpg)"></div>
+                <div class="carousel-item active" style="background-image: url(assets/img/projects/construction-2.jpg)"></div>
             </div>
         </section>
 
         <main id="main">
             <section id="get-started" class="get-started section-bg">
                 <div class="container">
-
                     <div class="row justify-content-between gy-4">
-
                         <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up">
                             <div class="content">
                                 <h3>Why choose EcoSearch? /or What sets us apart? </h3>
@@ -101,7 +99,7 @@
                 <div class="container" data-aos="fade-up">
 
                     <div class="row justify-content-around gy-4">
-                        <div class="col-lg-6 img-bg" style="background-image: url(assets/img/alt-services.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
+                        <div class="col-lg-6 img-bg" style="background-image: url(assets/img/features-4.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
 
                         <div class="col-lg-5 d-flex flex-column justify-content-center">
                             <h3>Areas we service:</h3>

@@ -64,7 +64,7 @@
                 <div class="container" data-aos="fade-up">
 
                     <div class="row justify-content-around gy-4">
-                        <div class="col-lg-6 img-bg" style="background-image: url(assets/img/hero-carousel/hero-carousel-5.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
+                        <div class="col-lg-6 img-bg" style="background-image: url(assets/img/features-1.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
 
                         <div class="col-lg-5 d-flex flex-column justify-content-center">
                             <h4 style="color: #2FDDF9">Electrical</h4>
