@@ -142,7 +142,7 @@
                     </div>
                 </div> <br/><br/>
                 <div class="text-center" style="text-transform: uppercase;">
-                    <a class="btn btn-secondary" href="http://www.eco-search.com.au/wp-content/uploads/2021/04/Timesheet-EcoSearch-Consulting.pdf" target="_blank">Download TimeSheet Here</a>
+                    <a class="btn btn-secondary btn-change1" href="http://www.eco-search.com.au/wp-content/uploads/2021/04/Timesheet-EcoSearch-Consulting.pdf" target="_blank">Download TimeSheet Here</a>
                 </div>
             </section>
         </main>

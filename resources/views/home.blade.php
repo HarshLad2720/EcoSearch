@@ -51,7 +51,7 @@
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-6 text-center">
-                            <h1><p style="font-size: 28px; color: white; text-align: start;">EcoSearch specialises in providing labour hire services in Construction, Electrical and Renewable industries, Australia wide. We believe success depends on the people around you, we want to help you find and retain the best employees so your organisation can grow, perform and have long-term success.</p></h1>
+                            <p style="font-size: 21px; font-weight: bold; color: white; text-align: start;">EcoSearch specialises in providing labour hire services in <span style="color: #AFFCF9">Construction, Electrical and Renewable industries, Australia wide</span>. We believe success depends on the people around you, we want to help you find and retain the best employees so your organisation can grow, perform and have long-term success.</p>
                         </div>
                     </div>
                 </div>
@@ -124,10 +124,10 @@
                                 </div>
                             </div><br/><br/>
                             <div class="form-group" style="position: relative;right: -113px;text-transform: uppercase;">
-                                <a class="btn btn-info" href="{{url('/area')}}">AREAS OF EXPERTISE</a>
+                                <a class="btn btn-secondary btn-change2" href="{{url('/area')}}">AREAS OF EXPERTISE</a>
                             </div><br/>
-                            <div class="form-group" style="position: relative;right: -75px;padding-left: 71px; text-transform: uppercase;">
-                                <a class="btn btn-info" href="{{url('/team')}}">MEET THE TEAM</a>
+                            <div class="form-group" style="position: relative;right: -75px;padding-left: 41px; text-transform: uppercase;">
+                                <a class="btn btn-secondary btn-change2" href="{{url('/team')}}">MEET THE TEAM</a>
                             </div>
 
                         </div>

@@ -82,9 +82,10 @@
                         <div class="col-lg-7">
                             <div class="our-story">
                                 <h4 style="color: #2FDDF9">Renewables</h4>
-                                <p>Eco Search services the renewable energy sector, we are proud to say this is a rapidly growing industry as more roles present themselves every day. This sector is expanding with a spotlight on sustainability globally.  We work and maintain relationships with several innovative and industry-leading organisations across the renewable industry. We recruit A list of example roles we recruit here – renewables roles, bringing solutions to both our clients and candidates.
-                                    We understand the pace of this growing industry and that having highly skilled and qualified workers can be difficult to find, that’s where we come in and make it simple. We can recommend some of the best emerging and established talent in the industry. Over the years we have developed a trusted reputation through recognising our client’s requirements and finding purposeful solutions allowing them to maintain a competitive advantage in a fast-paced, evolving market.
-                                </p>
+                                <p>Eco Search services the renewable energy sector, we are proud to say this is a rapidly growing industry as more roles present themselves every day. This sector is expanding with a spotlight on sustainability globally.  We work and maintain relationships with several innovative and industry-leading organisations across the renewable industry.
+                                    We understand the pace of this growing industry and that having highly skilled and qualified workers can be difficult to find, that’s where we come in and make it simple.</p>
+                                <p>We recruit A list of example roles we recruit here – renewables roles, bringing solutions to both our clients and candidates.</p>
+                                <p>We can recommend some of the best emerging and established talent in the industry. Over the years we have developed a trusted reputation through recognising our client’s requirements and finding purposeful solutions allowing them to maintain a competitive advantage in a fast-paced, evolving market.</p>
                             </div>
 
                         </div>
