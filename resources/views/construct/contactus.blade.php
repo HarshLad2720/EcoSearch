@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <title>EcoSearch | CONTACT US</title>
+        <title>Contact Us | rsSolutions</title>
         @include('construct.ecocss')
     </head>
     <body>
@@ -141,7 +141,7 @@
             <div class="footer-legal text-center position-relative">
                 <div class="container">
                     <div class="copyright">
-                        &copy; <script>document.write(new Date().getFullYear())</script> <strong><span>EcoSearch</span></strong>. All Rights Reserved
+                        &copy; <script>document.write(new Date().getFullYear())</script> <strong><span>rsSolutions</span></strong>. All Rights Reserved
                     </div>
                 </div>
             </div>

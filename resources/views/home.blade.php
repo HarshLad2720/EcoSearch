@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <title>EcoSearch | Recruitment for Construction, Electrical and Renewables</title>
+        <title>rsSolutions | Recruitment for Construction, Electrical and Renewables</title>
         @include('construct.ecocss')
     </head>
     <body>
@@ -51,7 +51,7 @@
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-lg-6 text-center">
-                            <p style="font-size: 21px; font-weight: bold; color: white; text-align: start;">EcoSearch specialises in providing labour hire services in <span style="color: #AFFCF9">Construction, Electrical and Renewable industries, Australia wide</span>. We believe success depends on the people around you, we want to help you find and retain the best employees so your organisation can grow, perform and have long-term success.</p>
+                            <p style="font-size: 21px; font-weight: bold; color: white; text-align: start;">rsSolutions specialises in providing labour hire services in <span style="color: #AFFCF9">Construction, Electrical and Renewable industries, Australia wide</span>. We believe success depends on the people around you, we want to help you find and retain the best employees so your organisation can grow, perform and have long-term success.</p>
                         </div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
                     <div class="row justify-content-between gy-4">
                         <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up" style="background-color: #15272F;padding-top: 0%;padding-right: 4%;padding-bottom: 8%;padding-left: 8%;color: white;">
                             <div class="content">
-                                <h3 style="color: white;">Why choose EcoSearch ? or What sets us apart? </h3>
+                                <h3 style="color: white;">Why choose rsSolutions ? or What sets us apart? </h3>
                                 <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}As specialists in the industry, we have extensive experience in finding the best solution for you. We want the match for both parties to be long-standing and gratifying.
                                     We take the relationship-approach, taking our time to thoroughly get to know both your organisation, and our candidates.
                                 <p><i class="bi bi-arrow-right-short"></i>{!! "&nbsp;" !!}Whether you’re looking for a highly skilled worker in a particular area, or access to labourers with a wide variety of tickets, we supply the most suitable individual
@@ -178,7 +178,7 @@
             <div class="footer-legal text-center position-relative">
                 <div class="container">
                     <div class="copyright">
-                        &copy; <script>document.write(new Date().getFullYear())</script> <strong><span>EcoSearch</span></strong>. All Rights Reserved
+                        &copy; <script>document.write(new Date().getFullYear())</script> <strong><span>rsSolutions</span></strong>. All Rights Reserved
                     </div>
                 </div>
             </div>

@@ -1,7 +1,7 @@
 
     <nav class="sidebar sidebar-offcanvas" id="sidebar">
         <div class="sidebar-brand-wrapper d-none d-lg-flex align-items-center justify-content-center fixed-top">
-            <h4> Eco Search Admin </h4>
+            <h4> rsSolutions Admin </h4>
         </div>
         <ul class="nav">
 

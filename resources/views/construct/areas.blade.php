@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <title>EcoSearch | AREAS OF EXPERTISE</title>
+        <title> Areas of Expertise | rsSolutions</title>
         @include('construct.ecocss')
     </head>
 
@@ -68,7 +68,7 @@
 
                         <div class="col-lg-5 d-flex flex-column justify-content-center">
                             <h4 style="color: #2FDDF9">Electrical</h4>
-                            <p>EcoSearch is an electrical recruitment, placement and services firm based in location of company here. We specialise in placing people in  A list of example roles we recruit here – electrical roles</p>
+                            <p>rsSolutions is an electrical recruitment, placement and services firm based in location of company here. We specialise in placing people in  A list of example roles we recruit here – electrical roles</p>
                             <p>We source qualified and highly trained electricians, with appropriate cards and qualifications, from local and international markets to provide staffing solutions for the electrical sector. Our knowledge helps us to ensure the relevant skilled people are paired with the best suited roles.</p>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
                         <div class="col-lg-7">
                             <div class="our-story">
                                 <h4 style="color: #2FDDF9">Renewables</h4>
-                                <p>Eco Search services the renewable energy sector, we are proud to say this is a rapidly growing industry as more roles present themselves every day. This sector is expanding with a spotlight on sustainability globally.  We work and maintain relationships with several innovative and industry-leading organisations across the renewable industry.
+                                <p>rsSolutions services the renewable energy sector, we are proud to say this is a rapidly growing industry as more roles present themselves every day. This sector is expanding with a spotlight on sustainability globally.  We work and maintain relationships with several innovative and industry-leading organisations across the renewable industry.
                                     We understand the pace of this growing industry and that having highly skilled and qualified workers can be difficult to find, that’s where we come in and make it simple.</p>
                                 <p>We recruit A list of example roles we recruit here – renewables roles, bringing solutions to both our clients and candidates.</p>
                                 <p>We can recommend some of the best emerging and established talent in the industry. Over the years we have developed a trusted reputation through recognising our client’s requirements and finding purposeful solutions allowing them to maintain a competitive advantage in a fast-paced, evolving market.</p>
@@ -135,7 +135,7 @@
             <div class="footer-legal text-center position-relative">
                 <div class="container">
                     <div class="copyright">
-                        &copy; <script>document.write(new Date().getFullYear())</script> <strong><span>EcoSearch</span></strong>. All Rights Reserved
+                        &copy; <script>document.write(new Date().getFullYear())</script> <strong><span>rsSolutions</span></strong>. All Rights Reserved
                     </div>
                 </div>
             </div>
